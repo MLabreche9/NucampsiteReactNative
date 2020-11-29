@@ -116,7 +116,6 @@ class Reservation extends Component {
                             title='Close'
                         />
                     </View>
-
                 </Modal>
             </ScrollView>
         );
